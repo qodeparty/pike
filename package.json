@@ -1,0 +1,23 @@
+{
+  "name": "pike",
+  "version": "0.0.1",
+  "description": "Portable interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qodeparty/pike.git"
+  },
+  "keywords": [
+    "pike",
+    "portable",
+    "interface"
+  ],
+  "author": "Avi Damasi <dev@qodeninja.com> (http://qodeparty.com/dist)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/qodeparty/pike/issues"
+  }
+}
